@@ -11,3 +11,8 @@ def rameshDevelopment():
         print("it is accessible for the developnent of the maangement in the sense ")
     else:
         print("yoy need to increase  the numebr for more developemnt")
+
+
+# the international  creation is more standard  for the developent of the programming langauge
+while True:
+    print("Ramesh shrestha is more reflected in the sense of the humanity")

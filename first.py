@@ -16,3 +16,9 @@ def rameshDevelopment():
 # the international  creation is more standard  for the developent of the programming langauge
 while True:
     print("Ramesh shrestha is more reflected in the sense of the humanity")
+    ramesh = "Ramesh shrestha"
+    for entry in ramesh:
+        if entry == ' ':
+            print("there are thwo world in the sentnese")
+        else:
+            print("there are notnay sentense  compresion")
